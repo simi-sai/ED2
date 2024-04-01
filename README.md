@@ -1,6 +1,6 @@
 # ED2
 
-Trabajo Practico Final de la materia Electronica Digital 2.
+Trabajo Practico Final y ejercicios de la materia Electronica Digital 2.
 
 ## Idea:
 
