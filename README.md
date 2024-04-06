@@ -2,7 +2,7 @@
 
 Trabajo Practico Final y ejercicios de la materia Electronica Digital 2.
 
-## Idea:
+## Trabajo Practico Final:
 
 Automatizador de apertura de ventana/puerta orientado a mascotas. Haciendo uso de 5 tipos distintos de interrupciones: 
 - Timer0
