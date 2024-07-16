@@ -14,5 +14,5 @@ Automatizador de apertura de ventana/puerta orientado a mascotas. Haciendo uso d
 Se utilizó el Microchip PIC16F887, programado en Assembler mediante la IDE MPLAB X.
 
 ### Integrantes:
-- Benitez, Joaquin.
 - Saillen, Simón.
+- Benitez, Joaquin.
